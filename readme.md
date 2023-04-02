@@ -11,7 +11,7 @@ To download the `app.asar` file, head over to the releases section. Once downloa
 ![launcher](https://raw.githubusercontent.com/Naibuu/LunarReplay/master/images/menu.png)
 
 ### Is it not working?
-Try deleting everything inside of your multiver folder in `.lunarclient/offline, and extract everything from this zip folder https://drive.google.com/file/d/1Nkitw4wqRj2ziahjWnD8cY2wJACo37Dj/view.
+Try deleting everything inside of your multiver folder in `.lunarclient/offline`, and extract everything from this zip folder https://drive.google.com/file/d/1Nkitw4wqRj2ziahjWnD8cY2wJACo37Dj/view.
 
 
 ### TODO
