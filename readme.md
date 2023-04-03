@@ -1,5 +1,7 @@
 ## ⚠ This is a modified version of the original Lunar Client launcher.
-We are not affiliated with Moonsworth, LLC is any shape of form. 
+We are no way affiliated with Moonsworth, LLC and Mojang Studios.
+
+![launcher](https://raw.githubusercontent.com/Naibuu/LunarReplay/master/images/launcher.png)
 
 With this version of the Lunar Client launcher, you can launch ReplayMod using the version module I have made. However, please note that I am still working on improving it. Currently, the only versions compatible with ReplayMod are 1.8.9 and 1.12.2, so for now, you will have to use 1.8.9. Also, it's important to take note that this is an older build of Lunar Client from August.
 
