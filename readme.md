@@ -1,5 +1,4 @@
-## ⚠ This is a modified version of the original Lunar Client launcher.
-We are no way affiliated with Moonsworth, LLC and Mojang Studios.
+This is a modified version of the up-to-date Lunar Client launcher and we are no way affiliated with Moonsworth, LLC and Mojang Studios.
 
 ![Screenshot](https://github.com/Naibuu/LunarReplay/raw/v1_12/images/client.png)
 
