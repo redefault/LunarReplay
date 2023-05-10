@@ -15,3 +15,4 @@ To download the `app.asar` file, head over to the releases section. Once downloa
 - [x] Fix issues (Launching default Minecraft then crashing, random crashes in 1.12).
 - [x] Make 1.8.9 work.
 - [x] Make 1.12.2 work.
+- [ ] Fix API so it actually launches lol
