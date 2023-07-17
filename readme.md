@@ -1,3 +1,13 @@
+Lunar Client has ReplayMod now.
+
+https://www.lunarclient.com/news/replay-mod-is-back
+
+![Screenshot](https://github.com/redefault/LunarReplay/assets/92568191/a2e16569-c89e-4522-a59a-fdfff741f286)
+
+
+
+
+
 This is a modified version of the up-to-date Lunar Client launcher and we are no way affiliated with Moonsworth, LLC and Mojang Studios.
 
 ![Screenshot](https://github.com/redefault/LunarReplay/raw/v1_8-&-1_12/images/client.png)
